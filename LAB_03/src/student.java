@@ -2,7 +2,7 @@
 functions getStudentInfo()- to get student information and displayStudentInfo()--to display student information*/
 import java.lang.*;
 import java.util.*;
-class Student {
+class student {
     int rollno;
     String name;
     double fees;
