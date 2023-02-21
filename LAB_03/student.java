@@ -1,8 +1,8 @@
 /*Write a program in java to create a class Student having data members rollno, name, fees, branch, section,university and members
 functions getStudentInfo()- to get student information and displayStudentInfo()--to display student information*/
-import java.lang.*;
+
 import java.util.*;
-class student {
+class Student {
     int rollno;
     String name;
     double fees;

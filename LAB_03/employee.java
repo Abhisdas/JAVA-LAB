@@ -1,6 +1,6 @@
 /*Write a program in java to create a class Employee having data members empid, name, salary, company name as static data member
 and members functions getEmpInfo()- to get employee information and displayEmpInfo()--to display employee information.*/
-import java.lang.*;
+
 import java.util.*;
 class employee {
     int id;

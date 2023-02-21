@@ -1,9 +1,7 @@
-/* Write a program in java to create a class Employee having data members empid, name, salary, company name as static data member
-and members functions getEmpInfo()- to get employee information and displayEmpInfo()--to display employee information.*/
-import java.lang.*;
-import java.util.*;
+/* 5. WAP to count number of objects created in a program using static data member and constructor in
+a class called ObjectCounter*/
 
-public class Objectcounter{
+public class Objectcounter {
     private static int count = 0;
 
     public Objectcounter() {
@@ -18,6 +16,7 @@ public class Objectcounter{
         Objectcounter obj1 = new Objectcounter();
         Objectcounter obj2 = new Objectcounter();
         Objectcounter obj3 = new Objectcounter();
+
         System.out.println("Number of objects created: " + Objectcounter.getCount());
     }
 }

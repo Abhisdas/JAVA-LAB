@@ -1,8 +1,7 @@
  /* 4. WAP to create a class account having Data Members cust_id, cust_name, branch, balance. Member Functions get() to input
 customer information ,display() to print customer account details, withdraw(int amt) to deduct amount from balance, deposit(int amt)
 to deposit amount into customer account.*/
-import java.lang.*;
-import java.util.*;
+
 public class Account {
     private int cust_id;
     private String cust_name;
