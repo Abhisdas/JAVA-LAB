@@ -1,3 +1,7 @@
+import java.util.*;
+import java.lang.*;
+
+
 class Detail {
     private String name;
     private String address;
