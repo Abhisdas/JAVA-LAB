@@ -1,3 +1,3 @@
-nAME: aBHISHEK kR. dAS
-aGE: 20
-oCCUPATION: sTUDENT
+Name: Abhishek Kr. Das
+Age: 20
+Occupation: Student
